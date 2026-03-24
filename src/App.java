@@ -1,14 +1,4 @@
-/*Requisitos Funcionais (O que o sistema faz)
-Gestão de Inventário:
-Cadastrar, atualizar, listar e remover produtos (frutas, legumes, verduras).
-Controle de estoque (quantidade disponível).
-Gestão de Clientes:
-Cadastro de usuários (nome, e-mail, endereço de entrega).
-Planos de Assinatura:
-Configurar planos (ex: Cesta Pequena, Cesta Família, Cesta Vegana) com preços fixos.
-Processamento de Pedidos:
-Gerar um pedido vinculado a um cliente e um plano.
-Validar se há itens suficientes no estoque para compor a cesta. */
+
 
 
 import java.util.Scanner;  
